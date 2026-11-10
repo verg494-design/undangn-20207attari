@@ -1,0 +1,23 @@
+/*
+ * Droid Arabic Naskh (Arabic) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Droid Arabic Naskh';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-regular.eot);
+  src: url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-regular.eot?#iefix) format('embedded-opentype'),
+       url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-regular.woff2) format('woff2'),
+       url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-regular.woff) format('woff'),
+       url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Droid Arabic Naskh';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-bold.eot);
+  src: url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-bold.eot?#iefix) format('embedded-opentype'),
+       url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-bold.woff2) format('woff2'),
+       url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-bold.woff) format('woff'),
+       url(https://byattari.com/wp-content/uploads/elementor/google-fonts/fonts/droidarabicnaskh-droidnaskh-bold.ttf) format('truetype');
+}
